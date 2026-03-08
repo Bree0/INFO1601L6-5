@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../INFO1601L6/INFO1601L6"
+		},
+		{
+			"name": "INFO1601L6-5",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "INFO1601L6-5"
+	}
+}
